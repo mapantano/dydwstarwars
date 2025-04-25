@@ -1,0 +1,31 @@
+.rojo{
+    background-color: red;
+}
+
+.azul{
+    background-color: blue;
+}
+
+#letra_grande{
+    font-size: 2em;
+}
+
+#cursiva{
+    font-style: italic;
+}
+
+.soldado{
+    border-style: dashed;
+}
+
+.espaciado{
+    letter-spacing: 1rem;
+}
+
+.apoyo{
+    text-align: center;
+}
+
+.nave{
+    text-transform: uppercase;
+}
